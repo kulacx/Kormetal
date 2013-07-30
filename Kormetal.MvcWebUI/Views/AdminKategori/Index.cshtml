@@ -1,0 +1,21 @@
+﻿@model System.Collections.Generic.List<Kormetal.Entities.Concrete.KMKATEGORI>
+
+@{
+    ViewBag.Title = "title";
+}
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <div>
+            @foreach(var kategori in Model)
+            {
+               @kategori.TRAD
+                <br/>
+            }  
+        </div>
+    </body>
+</html>

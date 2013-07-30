@@ -1,0 +1,22 @@
+﻿@model System.Collections.Generic.List<Kormetal.Entities.Concrete.KMICERIK>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <div>
+            @foreach(var icerik in Model)
+            {
+               @icerik.TRBASLIK
+                <br/>
+            }  
+        </div>
+    </body>
+</html>
