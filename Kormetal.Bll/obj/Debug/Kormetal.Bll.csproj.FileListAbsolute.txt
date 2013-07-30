@@ -1,0 +1,13 @@
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Bll\bin\Debug\Kormetal.Bll.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Bll\bin\Debug\Kormetal.Bll.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Bll\obj\Debug\Kormetal.Bll.csprojResolveAssemblyReference.cache
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Bll\obj\Debug\Kormetal.Bll.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Bll\obj\Debug\Kormetal.Bll.pdb
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\Kormetal.Dal.dll
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\Kormetal.Entities.dll
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\Kormetal.Interfaces.dll
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\EntityFramework.dll
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\Kormetal.Dal.pdb
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\Kormetal.Entities.pdb
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\Kormetal.Interfaces.pdb
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Bll\bin\Debug\EntityFramework.xml

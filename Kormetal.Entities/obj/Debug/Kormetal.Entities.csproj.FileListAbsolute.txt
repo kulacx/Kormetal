@@ -1,0 +1,7 @@
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Entities\bin\Debug\Kormetal.Entities.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Entities\bin\Debug\Kormetal.Entities.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Entities\obj\Debug\Kormetal.Entities.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Entities\obj\Debug\Kormetal.Entities.pdb
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Entities\bin\Debug\EntityFramework.dll
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Entities\bin\Debug\EntityFramework.xml
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Entities\obj\Debug\Kormetal.Entities.csprojResolveAssemblyReference.cache

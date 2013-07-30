@@ -1,0 +1,16 @@
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.WcfLibrary.dll.config
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.WcfLibrary.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.WcfLibrary.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Bll.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Dal.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Entities.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Interfaces.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\EntityFramework.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Bll.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Dal.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Entities.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\Kormetal.Interfaces.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\bin\Debug\EntityFramework.xml
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\obj\Debug\Kormetal.WcfLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\obj\Debug\Kormetal.WcfLibrary.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.WcfLibrary\obj\Debug\Kormetal.WcfLibrary.pdb

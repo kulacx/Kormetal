@@ -1,0 +1,7 @@
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Interfaces\bin\Debug\Kormetal.Interfaces.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Interfaces\bin\Debug\Kormetal.Interfaces.pdb
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Interfaces\obj\Debug\Kormetal.Interfaces.dll
+C:\Users\kulacx\Desktop\Web\Kormetal\Kormetal.Interfaces\obj\Debug\Kormetal.Interfaces.pdb
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Interfaces\bin\Debug\Kormetal.Entities.dll
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Interfaces\bin\Debug\Kormetal.Entities.pdb
+C:\Users\kulacx\Desktop\Web\kormetal\Kormetal.Interfaces\obj\Debug\Kormetal.Interfaces.csprojResolveAssemblyReference.cache
